@@ -1,16 +1,16 @@
-# gobootstrap
+# goenv
 
-gobootstrap is a script to bootstrap go workspace.
+goenv is a script to bootstrap go workspace.
 
 ## Installation
 
 ```
-wget <url-to-bootstrap.sh> | bash
+wget <url-to-goenv.sh> | bash
 ```
 
 ## What does it do ?
 
-gobootstrap creates a go workspace according to
+goenv creates a go workspace according to
 http://golang.org/doc/code.html
 
 By default, it creates following directories:
